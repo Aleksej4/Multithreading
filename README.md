@@ -1,4 +1,4 @@
-#Multithreading
+Multithreading
 
 Created a .txt files with randomly generated words
 Created 4 thread for each task
